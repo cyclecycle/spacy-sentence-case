@@ -1,0 +1,10 @@
+README.md
+setup.py
+sentence_case/__init__.py
+sentence_case/sentence_case.py
+spacy_sentence_case.egg-info/PKG-INFO
+spacy_sentence_case.egg-info/SOURCES.txt
+spacy_sentence_case.egg-info/dependency_links.txt
+spacy_sentence_case.egg-info/top_level.txt
+test/__init__.py
+test/test_sentence_case.py

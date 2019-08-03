@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: spacy-sentence-case
+Version: 0.0.1
+Summary:  Convert sentences to sentence case.
+Home-page: https://github.com/cyclecycle/spacy-sentence-case
+Author: Nicholas Morley
+Author-email: nick.morley111@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
